@@ -1,1 +1,0 @@
-python3 -u decode_seq2seq.py --model_type unilm --model_name_or_path ../torch_unilm_model/ --model_recover_path ../output/model.4.bin --max_seq_length 512 --input_file ../data/news_summary2/test.json --output_file ../pred/pred_news_summary2.txt --do_lower_case --batch_size 32 --beam_size 5 --max_tgt_length 128
