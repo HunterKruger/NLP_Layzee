@@ -1,0 +1,16 @@
+*.csv
+*.tsv
+*.json
+*.txt
+*.bin
+*.hdf5
+*.mt
+*.conll
+*.test
+*.train
+*.val
+*.zip
+*.pyc
+/.idea/
+/.vscode/
+/.DS_Store/
