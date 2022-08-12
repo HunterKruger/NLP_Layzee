@@ -1,0 +1,1078 @@
+2021-11-04 17:47:26,926 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9007
+2021-11-04 17:47:26,927 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - [PID]4025
+2021-11-04 17:47:26,927 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 17:47:26,927 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 17:47:26,949 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9007.
+2021-11-04 17:47:26,959 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9010
+2021-11-04 17:47:26,961 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - [PID]4037
+2021-11-04 17:47:26,961 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 17:47:26,961 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 17:47:26,965 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9010.
+2021-11-04 17:47:26,968 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9015
+2021-11-04 17:47:26,968 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - [PID]4017
+2021-11-04 17:47:26,968 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 17:47:26,968 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 17:47:26,971 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9005
+2021-11-04 17:47:26,971 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - [PID]4036
+2021-11-04 17:47:26,971 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 17:47:26,972 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9015.
+2021-11-04 17:47:26,972 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 17:47:26,987 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9001
+2021-11-04 17:47:26,988 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - [PID]4016
+2021-11-04 17:47:26,988 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 17:47:26,989 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 17:47:26,989 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9005.
+2021-11-04 17:47:27,006 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9001.
+2021-11-04 17:47:27,018 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 17:47:27,019 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 17:47:27,024 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 17:47:27,024 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 17:47:27,033 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9000
+2021-11-04 17:47:27,033 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 17:47:27,033 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - [PID]4031
+2021-11-04 17:47:27,033 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 17:47:27,033 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 17:47:27,035 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9004
+2021-11-04 17:47:27,035 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - [PID]4041
+2021-11-04 17:47:27,035 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 17:47:27,036 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 17:47:27,036 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9000.
+2021-11-04 17:47:27,060 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9004.
+2021-11-04 17:47:27,060 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 17:47:27,108 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 17:47:27,265 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9012
+2021-11-04 17:47:27,266 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - [PID]4094
+2021-11-04 17:47:27,267 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 17:47:27,268 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 17:47:27,281 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9012.
+2021-11-04 17:47:27,341 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 17:47:27,454 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9002
+2021-11-04 17:47:27,455 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - [PID]4046
+2021-11-04 17:47:27,455 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 17:47:27,455 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 17:47:27,457 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9011
+2021-11-04 17:47:27,458 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - [PID]4044
+2021-11-04 17:47:27,458 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 17:47:27,459 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 17:47:27,485 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9011.
+2021-11-04 17:47:27,485 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9002.
+2021-11-04 17:47:27,494 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9014
+2021-11-04 17:47:27,495 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - [PID]4034
+2021-11-04 17:47:27,496 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 17:47:27,496 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 17:47:27,523 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9006
+2021-11-04 17:47:27,535 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 17:47:27,535 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - [PID]4033
+2021-11-04 17:47:27,536 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 17:47:27,536 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 17:47:27,536 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9014.
+2021-11-04 17:47:27,536 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 17:47:27,549 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9009
+2021-11-04 17:47:27,561 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - [PID]4039
+2021-11-04 17:47:27,561 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 17:47:27,561 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 17:47:27,561 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9006.
+2021-11-04 17:47:27,561 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 17:47:27,588 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9009.
+2021-11-04 17:47:27,588 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 17:47:27,602 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9008
+2021-11-04 17:47:27,603 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - [PID]4042
+2021-11-04 17:47:27,604 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 17:47:27,604 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 17:47:27,622 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9008.
+2021-11-04 17:47:27,630 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 17:47:27,659 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9013
+2021-11-04 17:47:27,659 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - [PID]4021
+2021-11-04 17:47:27,659 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 17:47:27,660 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 17:47:27,691 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9013.
+2021-11-04 17:47:27,701 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 17:47:27,727 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9003
+2021-11-04 17:47:27,727 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - [PID]4020
+2021-11-04 17:47:27,728 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 17:47:27,729 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 17:47:27,735 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 17:47:27,746 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9003.
+2021-11-04 17:47:27,790 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 17:47:28,643 [WARN ] W-9010-sbert_1.0-stderr MODEL_LOG - 2021-11-04 17:47:28.643243: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 17:47:28,679 [WARN ] W-9005-sbert_1.0-stderr MODEL_LOG - 2021-11-04 17:47:28.679126: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 17:47:28,708 [WARN ] W-9001-sbert_1.0-stderr MODEL_LOG - 2021-11-04 17:47:28.708360: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 17:47:28,712 [WARN ] W-9000-sbert_1.0-stderr MODEL_LOG - 2021-11-04 17:47:28.712388: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 17:47:28,732 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - 2021-11-04 17:47:28.732358: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 17:47:28,739 [WARN ] W-9015-sbert_1.0-stderr MODEL_LOG - 2021-11-04 17:47:28.739685: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 17:47:28,743 [WARN ] W-9004-sbert_1.0-stderr MODEL_LOG - 2021-11-04 17:47:28.743483: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 17:47:28,811 [WARN ] W-9012-sbert_1.0-stderr MODEL_LOG - 2021-11-04 17:47:28.811103: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 17:47:28,877 [WARN ] W-9011-sbert_1.0-stderr MODEL_LOG - 2021-11-04 17:47:28.877151: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 17:47:28,890 [WARN ] W-9002-sbert_1.0-stderr MODEL_LOG - 2021-11-04 17:47:28.890116: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 17:47:28,927 [WARN ] W-9006-sbert_1.0-stderr MODEL_LOG - 2021-11-04 17:47:28.927240: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 17:47:28,932 [WARN ] W-9014-sbert_1.0-stderr MODEL_LOG - 2021-11-04 17:47:28.932493: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 17:47:28,932 [WARN ] W-9008-sbert_1.0-stderr MODEL_LOG - 2021-11-04 17:47:28.932395: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 17:47:28,933 [WARN ] W-9009-sbert_1.0-stderr MODEL_LOG - 2021-11-04 17:47:28.932837: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 17:47:28,971 [WARN ] W-9013-sbert_1.0-stderr MODEL_LOG - 2021-11-04 17:47:28.971415: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 17:47:29,017 [WARN ] W-9003-sbert_1.0-stderr MODEL_LOG - 2021-11-04 17:47:29.017544: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 17:47:30,525 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 17:47:30,525 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,525 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,565 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 17:47:30,566 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,566 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,574 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 17:47:30,574 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,574 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,577 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 17:47:30,578 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,578 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,587 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 17:47:30,587 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,588 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,622 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 17:47:30,622 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,622 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,665 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 17:47:30,665 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,665 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,713 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 17:47:30,713 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,713 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,723 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 17:47:30,723 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,723 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,768 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 17:47:30,769 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,769 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,785 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 17:47:30,785 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,785 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,803 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 17:47:30,804 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,804 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,818 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 17:47:30,818 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 17:47:30,818 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,818 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,818 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,818 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,837 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 17:47:30,837 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,837 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,858 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 17:47:30,858 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:30,858 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/a9dddf989a274362b46b3fae93305937
+2021-11-04 17:47:36,672 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 17:47:36,673 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 17:47:36,713 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 17:47:36,714 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 17:47:37,978 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 17:47:37,979 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 17:47:38,606 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 17:47:38,608 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 17:47:38,618 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 17:47:38,620 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 17:47:38,632 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 17:47:38,633 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 17:47:38,704 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 17:47:38,712 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 17:47:38,842 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 17:47:38,843 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 17:47:38,901 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 17:47:38,902 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 17:47:38,961 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 17:47:38,963 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 17:47:39,007 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 17:47:39,009 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 17:47:39,050 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 17:47:39,051 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 17:47:39,119 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 17:47:39,120 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 17:47:39,124 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 17:47:39,126 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 17:47:39,126 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 17:47:39,127 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 17:47:39,127 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 17:47:39,128 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:01:11,763 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:01:11,775 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:01:11,783 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:01:11,790 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:01:11,796 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:01:11,802 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:01:11,810 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:01:11,817 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:01:11,825 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:01:11,831 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:01:11,837 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:01:11,843 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:01:11,848 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:01:11,856 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:01:11,864 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:01:11,872 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:02:31,639 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9006
+2021-11-04 18:02:31,640 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - [PID]5812
+2021-11-04 18:02:31,640 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:02:31,640 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:02:31,644 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9015
+2021-11-04 18:02:31,645 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - [PID]5828
+2021-11-04 18:02:31,645 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:02:31,645 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:02:31,672 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9006.
+2021-11-04 18:02:31,672 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9015.
+2021-11-04 18:02:31,708 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9002
+2021-11-04 18:02:31,708 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - [PID]5818
+2021-11-04 18:02:31,708 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:02:31,708 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:02:31,719 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9005
+2021-11-04 18:02:31,719 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - [PID]5830
+2021-11-04 18:02:31,720 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:02:31,720 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:02:31,720 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9002.
+2021-11-04 18:02:31,721 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:02:31,721 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:02:31,737 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9014
+2021-11-04 18:02:31,737 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - [PID]5821
+2021-11-04 18:02:31,738 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:02:31,746 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:02:31,746 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9000
+2021-11-04 18:02:31,747 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - [PID]5831
+2021-11-04 18:02:31,747 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:02:31,747 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9005.
+2021-11-04 18:02:31,747 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:02:31,747 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:02:31,771 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9014.
+2021-11-04 18:02:31,771 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9000.
+2021-11-04 18:02:31,771 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:02:31,777 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9008
+2021-11-04 18:02:31,777 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - [PID]5881
+2021-11-04 18:02:31,777 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:02:31,778 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:02:31,814 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9004
+2021-11-04 18:02:31,814 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - [PID]5825
+2021-11-04 18:02:31,814 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:02:31,814 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:02:31,815 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9008.
+2021-11-04 18:02:31,821 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:02:31,821 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:02:31,861 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9004.
+2021-11-04 18:02:31,881 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:02:31,913 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9011
+2021-11-04 18:02:31,913 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - [PID]5824
+2021-11-04 18:02:31,913 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:02:31,913 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:02:31,922 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9007
+2021-11-04 18:02:31,922 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9011.
+2021-11-04 18:02:31,922 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - [PID]5833
+2021-11-04 18:02:31,923 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:02:31,923 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:02:31,927 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:02:31,934 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9007.
+2021-11-04 18:02:31,956 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9001
+2021-11-04 18:02:31,956 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - [PID]5811
+2021-11-04 18:02:31,957 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:02:31,957 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:02:31,960 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:02:31,983 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9001.
+2021-11-04 18:02:31,997 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:02:32,026 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9003
+2021-11-04 18:02:32,027 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - [PID]5829
+2021-11-04 18:02:32,034 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:02:32,048 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:02:32,051 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:02:32,058 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9010
+2021-11-04 18:02:32,060 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - [PID]5882
+2021-11-04 18:02:32,061 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:02:32,061 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9009
+2021-11-04 18:02:32,062 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - [PID]5813
+2021-11-04 18:02:32,062 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:02:32,062 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:02:32,063 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9003.
+2021-11-04 18:02:32,064 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:02:32,068 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9013
+2021-11-04 18:02:32,068 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - [PID]5832
+2021-11-04 18:02:32,068 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:02:32,068 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:02:32,121 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:02:32,122 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9010.
+2021-11-04 18:02:32,133 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9013.
+2021-11-04 18:02:32,134 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9009.
+2021-11-04 18:02:32,146 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:02:32,164 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:02:32,188 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:02:32,404 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9012
+2021-11-04 18:02:32,405 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - [PID]5883
+2021-11-04 18:02:32,406 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:02:32,407 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:02:32,411 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9012.
+2021-11-04 18:02:32,489 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:02:33,367 [WARN ] W-9006-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:02:33.366738: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:02:33,399 [WARN ] W-9002-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:02:33.399690: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:02:33,415 [WARN ] W-9005-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:02:33.414966: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:02:33,428 [WARN ] W-9014-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:02:33.428311: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:02:33,429 [WARN ] W-9000-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:02:33.429607: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:02:33,433 [WARN ] W-9011-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:02:33.433174: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:02:33,447 [WARN ] W-9001-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:02:33.446798: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:02:33,447 [WARN ] W-9004-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:02:33.447551: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:02:33,447 [WARN ] W-9015-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:02:33.447734: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:02:33,450 [WARN ] W-9008-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:02:33.450118: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:02:33,464 [WARN ] W-9010-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:02:33.464128: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:02:33,464 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:02:33.464124: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:02:33,523 [WARN ] W-9009-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:02:33.523487: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:02:33,549 [WARN ] W-9013-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:02:33.549142: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:02:33,559 [WARN ] W-9012-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:02:33.559311: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:02:33,571 [WARN ] W-9003-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:02:33.570991: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:02:35,226 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:02:35,226 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,226 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,251 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:02:35,251 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,251 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,286 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:02:35,286 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,286 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,289 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:02:35,289 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,289 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,292 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:02:35,292 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,292 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,329 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:02:35,329 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,330 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:02:35,330 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,330 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,330 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,334 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:02:35,334 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,334 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:02:35,335 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,335 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,335 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,346 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:02:35,347 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,347 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,360 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:02:35,360 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,360 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,379 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:02:35,379 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,379 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,387 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:02:35,388 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,388 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,389 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:02:35,389 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,389 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,422 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:02:35,422 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,422 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,520 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:02:35,520 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:35,520 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/3d52ed6db27e4665a77f2fb90c87bb2a
+2021-11-04 18:02:40,715 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:02:40,716 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:02:40,948 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:02:40,954 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:02:41,933 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:02:41,934 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:02:43,003 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:02:43,004 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:02:43,166 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:02:43,167 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:02:43,351 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:02:43,352 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:02:43,631 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:02:43,632 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:02:43,649 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:02:43,651 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:02:43,689 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:02:43,691 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:02:43,696 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:02:43,697 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:02:43,698 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:02:43,699 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:02:43,741 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:02:43,742 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:02:43,774 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:02:43,775 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:02:43,775 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:02:43,776 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:02:43,777 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:02:43,777 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:02:43,781 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:02:43,782 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:05:09,741 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:05:09,751 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:05:09,760 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:05:09,766 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:05:09,772 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:05:09,778 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:05:09,782 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:05:09,789 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:05:09,795 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:05:09,801 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:05:09,809 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:05:09,816 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:05:09,824 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:05:09,832 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:05:09,839 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:05:09,846 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:07:12,870 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9008
+2021-11-04 18:07:12,870 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - [PID]7304
+2021-11-04 18:07:12,871 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:07:12,871 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:07:12,889 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9008.
+2021-11-04 18:07:12,914 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9009
+2021-11-04 18:07:12,921 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - [PID]7301
+2021-11-04 18:07:12,921 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:07:12,921 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:07:12,924 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9009.
+2021-11-04 18:07:12,927 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9004
+2021-11-04 18:07:12,927 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - [PID]7300
+2021-11-04 18:07:12,927 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:07:12,927 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:07:12,951 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9011
+2021-11-04 18:07:12,951 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9004.
+2021-11-04 18:07:12,951 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9014
+2021-11-04 18:07:12,951 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - [PID]7320
+2021-11-04 18:07:12,951 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - [PID]7305
+2021-11-04 18:07:12,951 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:07:12,951 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:07:12,952 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:07:12,952 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:07:12,966 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:07:12,966 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:07:12,979 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9015
+2021-11-04 18:07:12,979 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - [PID]7314
+2021-11-04 18:07:12,980 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:07:12,980 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:07:12,980 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9014.
+2021-11-04 18:07:12,980 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:07:12,981 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9011.
+2021-11-04 18:07:12,995 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9001
+2021-11-04 18:07:13,010 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - [PID]7319
+2021-11-04 18:07:13,010 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:07:13,011 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:07:13,011 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:07:13,011 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9015.
+2021-11-04 18:07:13,032 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:07:13,056 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9001.
+2021-11-04 18:07:13,064 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:07:13,113 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:07:13,192 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9000
+2021-11-04 18:07:13,193 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - [PID]7317
+2021-11-04 18:07:13,194 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:07:13,194 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:07:13,212 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9000.
+2021-11-04 18:07:13,291 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9010
+2021-11-04 18:07:13,293 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - [PID]7292
+2021-11-04 18:07:13,294 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:07:13,295 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:07:13,320 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9010.
+2021-11-04 18:07:13,336 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:07:13,348 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:07:13,585 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9003
+2021-11-04 18:07:13,586 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - [PID]7294
+2021-11-04 18:07:13,586 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:07:13,586 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:07:13,588 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9003.
+2021-11-04 18:07:13,613 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:07:13,622 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9007
+2021-11-04 18:07:13,623 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - [PID]7291
+2021-11-04 18:07:13,623 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:07:13,623 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:07:13,626 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9007.
+2021-11-04 18:07:13,650 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:07:13,655 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9002
+2021-11-04 18:07:13,656 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - [PID]7313
+2021-11-04 18:07:13,656 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:07:13,656 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:07:13,659 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9002.
+2021-11-04 18:07:13,667 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9012
+2021-11-04 18:07:13,667 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9006
+2021-11-04 18:07:13,668 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - [PID]7309
+2021-11-04 18:07:13,668 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - [PID]7289
+2021-11-04 18:07:13,668 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:07:13,668 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:07:13,668 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:07:13,668 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:07:13,672 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9005
+2021-11-04 18:07:13,673 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - [PID]7362
+2021-11-04 18:07:13,673 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:07:13,673 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:07:13,693 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9013
+2021-11-04 18:07:13,704 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - [PID]7312
+2021-11-04 18:07:13,704 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:07:13,704 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:07:13,742 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:07:13,748 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9012.
+2021-11-04 18:07:13,748 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9005.
+2021-11-04 18:07:13,749 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9006.
+2021-11-04 18:07:13,750 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9013.
+2021-11-04 18:07:13,791 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:07:13,805 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:07:13,825 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:07:13,837 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:07:14,615 [WARN ] W-9004-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:07:14.615600: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:07:14,630 [WARN ] W-9009-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:07:14.629924: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:07:14,680 [WARN ] W-9001-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:07:14.680517: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:07:14,687 [WARN ] W-9014-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:07:14.687139: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:07:14,739 [WARN ] W-9015-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:07:14.739028: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:07:14,748 [WARN ] W-9008-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:07:14.747932: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:07:14,792 [WARN ] W-9000-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:07:14.792223: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:07:14,822 [WARN ] W-9010-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:07:14.822308: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:07:14,847 [WARN ] W-9011-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:07:14.847145: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:07:14,974 [WARN ] W-9003-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:07:14.974568: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:07:14,980 [WARN ] W-9002-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:07:14.979900: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:07:14,980 [WARN ] W-9012-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:07:14.979865: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:07:14,980 [WARN ] W-9006-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:07:14.979864: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:07:14,982 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:07:14.982756: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:07:15,056 [WARN ] W-9013-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:07:15.056634: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:07:15,280 [WARN ] W-9005-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:07:15.280373: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:07:16,505 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:07:16,505 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,505 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,515 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:07:16,515 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,515 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,522 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:07:16,522 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,522 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,540 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:07:16,540 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,540 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,654 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:07:16,654 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,654 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,694 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:07:16,694 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,694 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,814 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:07:16,814 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:07:16,814 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,814 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,814 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,814 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,839 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:07:16,839 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,840 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,846 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:07:16,846 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,847 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,880 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:07:16,880 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,880 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,918 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:07:16,918 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:16,919 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:17,182 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:07:17,182 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:17,183 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:17,231 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:07:17,231 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:17,231 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:17,294 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:07:17,295 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:17,295 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:17,308 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:07:17,308 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:17,308 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/2115ca89d9d344f0b2e909f087cf3a15
+2021-11-04 18:07:19,553 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:07:19,554 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:07:21,471 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:07:21,472 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:07:21,542 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:07:21,543 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:07:22,713 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:07:22,714 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:07:23,707 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:07:23,708 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:07:23,727 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:07:23,728 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:07:23,988 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:07:23,990 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:07:24,057 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:07:24,057 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:07:24,058 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:07:24,059 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:07:24,214 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:07:24,215 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:07:24,250 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:07:24,251 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:07:24,315 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:07:24,316 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:07:24,355 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:07:24,356 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:07:24,412 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:07:24,414 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:07:24,425 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:07:24,425 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:07:24,426 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:07:24,427 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:11:51,003 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - inputs_fy:
+2021-11-04 18:11:51,003 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - [{'body': {'q': 'A man is eating food.', 'sep': '!~^', 'list_str': 'A man is eating a piece of bread.!~^The girl is carrying a baby.'}}]
+2021-11-04 18:11:51,003 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - <class 'list'>
+2021-11-04 18:11:51,003 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - {'q': 'A man is eating food.', 'sep': '!~^', 'list_str': 'A man is eating a piece of bread.!~^The girl is carrying a baby.'}
+2021-11-04 18:11:51,003 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - <class 'dict'>
+2021-11-04 18:11:51,004 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2021-11-04 18:11:51,004 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2021-11-04 18:11:51,004 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG -   File "/home/fengyuan/anaconda3/envs/transformers/lib/python3.6/site-packages/ts/service.py", line 100, in predict
+2021-11-04 18:11:51,004 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2021-11-04 18:11:51,005 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG -   File "/tmp/models/2115ca89d9d344f0b2e909f087cf3a15/handler.py", line 168, in handle
+2021-11-04 18:11:51,005 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG -     raise e
+2021-11-04 18:11:51,005 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG -   File "/tmp/models/2115ca89d9d344f0b2e909f087cf3a15/handler.py", line 163, in handle
+2021-11-04 18:11:51,005 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG -     data = _service.inference(data)
+2021-11-04 18:11:51,005 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG -   File "/tmp/models/2115ca89d9d344f0b2e909f087cf3a15/handler.py", line 118, in inference
+2021-11-04 18:11:51,005 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG -     logger.info(inputs[0].get('body').decode('utf-8'))  # ?
+2021-11-04 18:11:51,005 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - AttributeError: 'dict' object has no attribute 'decode'
+2021-11-04 18:15:22,256 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:15:22,266 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:15:22,274 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:15:22,280 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:15:22,286 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:15:22,291 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:15:22,297 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:15:22,303 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:15:22,309 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:15:22,317 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:15:22,323 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:15:22,329 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:15:22,336 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:15:22,343 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:15:22,353 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-04 18:16:43,888 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9000
+2021-11-04 18:16:43,889 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - [PID]9333
+2021-11-04 18:16:43,889 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:16:43,889 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:16:43,907 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9011
+2021-11-04 18:16:43,908 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - [PID]9339
+2021-11-04 18:16:43,908 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:16:43,908 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:16:43,914 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9000.
+2021-11-04 18:16:43,915 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9011.
+2021-11-04 18:16:43,924 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9007
+2021-11-04 18:16:43,924 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - [PID]9389
+2021-11-04 18:16:43,924 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:16:43,924 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9008
+2021-11-04 18:16:43,924 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:16:43,925 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - [PID]9335
+2021-11-04 18:16:43,925 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:16:43,925 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:16:43,928 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9008.
+2021-11-04 18:16:43,928 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9007.
+2021-11-04 18:16:43,974 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:16:43,974 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:16:43,974 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:16:43,974 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:16:43,981 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9010
+2021-11-04 18:16:43,981 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - [PID]9387
+2021-11-04 18:16:43,981 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:16:43,981 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:16:43,985 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9010.
+2021-11-04 18:16:43,992 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9002
+2021-11-04 18:16:43,992 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - [PID]9313
+2021-11-04 18:16:43,992 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:16:43,992 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:16:43,999 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9002.
+2021-11-04 18:16:44,012 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:16:44,026 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:16:44,162 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9014
+2021-11-04 18:16:44,162 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - [PID]9327
+2021-11-04 18:16:44,162 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:16:44,162 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:16:44,176 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9014.
+2021-11-04 18:16:44,230 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:16:44,244 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9015
+2021-11-04 18:16:44,245 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - [PID]9315
+2021-11-04 18:16:44,245 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:16:44,245 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:16:44,263 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9015.
+2021-11-04 18:16:44,313 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9003
+2021-11-04 18:16:44,314 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - [PID]9318
+2021-11-04 18:16:44,314 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:16:44,317 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:16:44,317 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:16:44,327 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9003.
+2021-11-04 18:16:44,384 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:16:44,666 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9005
+2021-11-04 18:16:44,666 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - [PID]9325
+2021-11-04 18:16:44,666 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:16:44,666 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:16:44,668 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9005.
+2021-11-04 18:16:44,696 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:16:44,726 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9004
+2021-11-04 18:16:44,727 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - [PID]9329
+2021-11-04 18:16:44,727 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:16:44,727 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:16:44,730 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9004.
+2021-11-04 18:16:44,736 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9001
+2021-11-04 18:16:44,736 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - [PID]9320
+2021-11-04 18:16:44,737 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:16:44,737 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:16:44,744 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9012
+2021-11-04 18:16:44,754 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - [PID]9326
+2021-11-04 18:16:44,754 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:16:44,754 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:16:44,754 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9001.
+2021-11-04 18:16:44,755 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:16:44,767 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9006
+2021-11-04 18:16:44,767 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9009
+2021-11-04 18:16:44,767 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - [PID]9323
+2021-11-04 18:16:44,768 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - [PID]9334
+2021-11-04 18:16:44,768 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:16:44,768 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:16:44,768 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:16:44,781 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:16:44,781 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9013
+2021-11-04 18:16:44,787 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - [PID]9317
+2021-11-04 18:16:44,787 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-04 18:16:44,787 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-04 18:16:44,789 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:16:44,794 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9012.
+2021-11-04 18:16:44,822 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9013.
+2021-11-04 18:16:44,835 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9006.
+2021-11-04 18:16:44,838 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9009.
+2021-11-04 18:16:44,838 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:16:44,867 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:16:44,877 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:16:44,913 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-04 18:16:45,701 [WARN ] W-9010-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:16:45.701676: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:16:45,701 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:16:45.701694: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:16:45,702 [WARN ] W-9011-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:16:45.702274: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:16:45,705 [WARN ] W-9000-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:16:45.705547: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:16:45,746 [WARN ] W-9014-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:16:45.746702: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:16:45,770 [WARN ] W-9008-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:16:45.769961: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:16:45,770 [WARN ] W-9002-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:16:45.770406: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:16:45,869 [WARN ] W-9015-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:16:45.869299: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:16:45,887 [WARN ] W-9003-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:16:45.886892: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:16:46,053 [WARN ] W-9004-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:16:46.053001: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:16:46,065 [WARN ] W-9005-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:16:46.065218: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:16:46,092 [WARN ] W-9006-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:16:46.092002: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:16:46,104 [WARN ] W-9012-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:16:46.104083: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:16:46,104 [WARN ] W-9001-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:16:46.104066: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:16:46,116 [WARN ] W-9013-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:16:46.116383: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:16:46,116 [WARN ] W-9009-sbert_1.0-stderr MODEL_LOG - 2021-11-04 18:16:46.116564: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-04 18:16:47,568 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:16:47,568 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,568 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,609 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:16:47,609 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,609 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,636 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:16:47,636 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,636 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,649 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:16:47,649 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,650 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,668 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:16:47,668 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,669 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,686 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:16:47,687 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,687 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,740 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:16:47,741 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,741 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,808 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:16:47,808 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,808 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,869 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:16:47,870 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,870 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,889 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:16:47,889 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,889 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,991 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:16:47,992 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:47,992 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:48,027 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:16:48,027 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:48,028 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:48,053 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:16:48,053 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:48,053 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:48,081 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:16:48,081 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:48,082 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:48,165 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:16:48,165 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:48,166 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:48,256 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-04 18:16:48,256 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:48,257 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/30b3f48bc1d64bfdacd49d356eec474a
+2021-11-04 18:16:50,480 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:16:50,490 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:16:50,498 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - inputs_fy:
+2021-11-04 18:16:50,498 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - [{'body': {'q': 'A man is eating food.', 'sep': '!~^', 'list_str': 'A man is eating a piece of bread.!~^The girl is carrying a baby.'}}]
+2021-11-04 18:16:50,498 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - <class 'list'>
+2021-11-04 18:16:50,498 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - {'q': 'A man is eating food.', 'sep': '!~^', 'list_str': 'A man is eating a piece of bread.!~^The girl is carrying a baby.'}
+2021-11-04 18:16:50,499 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - <class 'dict'>
+2021-11-04 18:16:50,533 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - 
+2021-11-04 18:16:51,658 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - Batches:   0%|          | 0/1 [00:00<?, ?it/s]
+2021-11-04 18:16:51,660 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - Batches: 100%|██████████| 1/1 [00:01<00:00,  1.12s/it]
+2021-11-04 18:16:51,664 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - Batches: 100%|██████████| 1/1 [00:01<00:00,  1.13s/it]
+2021-11-04 18:16:51,665 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - 
+2021-11-04 18:16:51,679 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:16:51,681 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:16:51,815 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - Batches:   0%|          | 0/1 [00:00<?, ?it/s]
+2021-11-04 18:16:51,815 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - Batches: 100%|██████████| 1/1 [00:00<00:00,  6.63it/s]
+2021-11-04 18:16:52,775 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:16:52,776 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:16:53,995 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:16:53,997 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:16:54,142 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:16:54,144 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:16:54,407 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:16:54,409 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:16:54,711 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:16:54,712 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:16:54,730 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:16:54,731 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:16:55,365 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:16:55,367 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:16:55,378 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:16:55,380 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:16:55,392 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:16:55,393 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:16:55,443 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:16:55,444 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:16:55,509 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:16:55,510 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:16:55,510 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:16:55,512 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:16:55,522 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:16:55,522 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-04 18:16:55,525 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-04 18:16:55,526 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-05 10:58:30,167 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-05 10:58:30,176 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-05 10:58:30,183 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-05 10:58:30,190 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-05 10:58:30,197 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-05 10:58:30,205 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-05 10:58:30,219 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-05 10:58:30,225 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-05 10:58:30,225 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - Batches: 100%|██████████| 1/1 [00:00<00:00,  6.60it/s]
+2021-11-05 10:58:30,232 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-05 10:58:30,237 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-05 10:58:30,243 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-05 10:58:30,250 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-05 10:58:30,258 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-05 10:58:30,264 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-05 10:58:30,271 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-06 15:42:37,295 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9003
+2021-11-06 15:42:37,296 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - [PID]26824
+2021-11-06 15:42:37,296 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-06 15:42:37,297 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-06 15:42:37,321 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9003.
+2021-11-06 15:42:37,362 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-06 15:42:37,366 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9004
+2021-11-06 15:42:37,367 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - [PID]26822
+2021-11-06 15:42:37,367 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-06 15:42:37,368 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-06 15:42:37,371 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9004.
+2021-11-06 15:42:37,383 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9005
+2021-11-06 15:42:37,384 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - [PID]26888
+2021-11-06 15:42:37,384 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-06 15:42:37,384 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-06 15:42:37,395 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-06 15:42:37,396 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9005.
+2021-11-06 15:42:37,409 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9002
+2021-11-06 15:42:37,409 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - [PID]26886
+2021-11-06 15:42:37,410 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-06 15:42:37,410 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-06 15:42:37,422 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-06 15:42:37,422 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9002.
+2021-11-06 15:42:37,438 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9014
+2021-11-06 15:42:37,439 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - [PID]26889
+2021-11-06 15:42:37,439 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-06 15:42:37,439 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-06 15:42:37,465 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9009
+2021-11-06 15:42:37,465 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - [PID]26821
+2021-11-06 15:42:37,470 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-06 15:42:37,470 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-06 15:42:37,471 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-06 15:42:37,472 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9014.
+2021-11-06 15:42:37,534 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9009.
+2021-11-06 15:42:37,539 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-06 15:42:37,585 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-06 15:42:37,616 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9007
+2021-11-06 15:42:37,616 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - [PID]26820
+2021-11-06 15:42:37,617 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-06 15:42:37,617 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-06 15:42:37,630 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9007.
+2021-11-06 15:42:37,652 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9015
+2021-11-06 15:42:37,653 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - [PID]26825
+2021-11-06 15:42:37,653 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-06 15:42:37,671 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9001
+2021-11-06 15:42:37,671 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-06 15:42:37,671 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - [PID]26826
+2021-11-06 15:42:37,671 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-06 15:42:37,671 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-06 15:42:37,672 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-06 15:42:37,692 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9006
+2021-11-06 15:42:37,693 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - [PID]26828
+2021-11-06 15:42:37,694 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-06 15:42:37,698 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-06 15:42:37,725 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9006.
+2021-11-06 15:42:37,755 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9015.
+2021-11-06 15:42:37,755 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9012
+2021-11-06 15:42:37,757 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - [PID]26818
+2021-11-06 15:42:37,758 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-06 15:42:37,758 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-06 15:42:37,765 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9001.
+2021-11-06 15:42:37,770 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9011
+2021-11-06 15:42:37,773 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9008
+2021-11-06 15:42:37,775 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - [PID]26887
+2021-11-06 15:42:37,776 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-06 15:42:37,776 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-06 15:42:37,779 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - [PID]26815
+2021-11-06 15:42:37,780 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-06 15:42:37,782 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-06 15:42:37,793 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-06 15:42:37,818 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9011.
+2021-11-06 15:42:37,818 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9012.
+2021-11-06 15:42:37,820 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-06 15:42:37,819 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-06 15:42:37,819 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9008.
+2021-11-06 15:42:37,842 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9000
+2021-11-06 15:42:37,843 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - [PID]26819
+2021-11-06 15:42:37,843 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-06 15:42:37,843 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-06 15:42:37,868 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9013
+2021-11-06 15:42:37,868 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9010
+2021-11-06 15:42:37,872 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - [PID]26823
+2021-11-06 15:42:37,873 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-06 15:42:37,873 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-06 15:42:37,873 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - [PID]26827
+2021-11-06 15:42:37,877 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-06 15:42:37,877 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9000.
+2021-11-06 15:42:37,882 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Torch worker started.
+2021-11-06 15:42:37,882 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Python runtime: 3.6.13
+2021-11-06 15:42:37,889 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-06 15:42:37,925 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9010.
+2021-11-06 15:42:37,945 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9013.
+2021-11-06 15:42:37,949 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-06 15:42:37,953 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-06 15:42:37,985 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-06 15:42:38,009 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - model_name: sbert, batchSize: 1
+2021-11-06 15:42:39,005 [WARN ] W-9004-sbert_1.0-stderr MODEL_LOG - 2021-11-06 15:42:39.004814: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 15:42:39,034 [WARN ] W-9009-sbert_1.0-stderr MODEL_LOG - 2021-11-06 15:42:39.033915: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 15:42:39,053 [WARN ] W-9003-sbert_1.0-stderr MODEL_LOG - 2021-11-06 15:42:39.052773: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 15:42:39,060 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - 2021-11-06 15:42:39.060484: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 15:42:39,085 [WARN ] W-9006-sbert_1.0-stderr MODEL_LOG - 2021-11-06 15:42:39.085358: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 15:42:39,086 [WARN ] W-9002-sbert_1.0-stderr MODEL_LOG - 2021-11-06 15:42:39.086284: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 15:42:39,102 [WARN ] W-9005-sbert_1.0-stderr MODEL_LOG - 2021-11-06 15:42:39.101834: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 15:42:39,127 [WARN ] W-9015-sbert_1.0-stderr MODEL_LOG - 2021-11-06 15:42:39.127467: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 15:42:39,162 [WARN ] W-9001-sbert_1.0-stderr MODEL_LOG - 2021-11-06 15:42:39.162352: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 15:42:39,163 [WARN ] W-9008-sbert_1.0-stderr MODEL_LOG - 2021-11-06 15:42:39.163689: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 15:42:39,192 [WARN ] W-9000-sbert_1.0-stderr MODEL_LOG - 2021-11-06 15:42:39.191828: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 15:42:39,194 [WARN ] W-9011-sbert_1.0-stderr MODEL_LOG - 2021-11-06 15:42:39.193895: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 15:42:39,216 [WARN ] W-9013-sbert_1.0-stderr MODEL_LOG - 2021-11-06 15:42:39.215954: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 15:42:39,219 [WARN ] W-9012-sbert_1.0-stderr MODEL_LOG - 2021-11-06 15:42:39.219651: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 15:42:39,297 [WARN ] W-9014-sbert_1.0-stderr MODEL_LOG - 2021-11-06 15:42:39.297364: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 15:42:39,536 [WARN ] W-9010-sbert_1.0-stderr MODEL_LOG - 2021-11-06 15:42:39.536216: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2021-11-06 15:42:40,869 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-06 15:42:40,869 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:40,869 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:40,887 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-06 15:42:40,887 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:40,888 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:40,895 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-06 15:42:40,896 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:40,896 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:40,935 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-06 15:42:40,936 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:40,936 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:40,972 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-06 15:42:40,972 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:40,972 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,022 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-06 15:42:41,022 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,022 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,024 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-06 15:42:41,024 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,025 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,062 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-06 15:42:41,062 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,062 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,073 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-06 15:42:41,073 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,074 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,081 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-06 15:42:41,081 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,081 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,110 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-06 15:42:41,110 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,110 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,121 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-06 15:42:41,122 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,122 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,129 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-06 15:42:41,129 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,129 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,163 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-06 15:42:41,163 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,163 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,211 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-06 15:42:41,211 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,211 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,463 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - model_dir:
+2021-11-06 15:42:41,464 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:41,464 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Load pretrained SentenceTransformer: /tmp/models/40ec09d187ff448da678da3961690993
+2021-11-06 15:42:44,642 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-06 15:42:44,645 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-06 15:42:45,706 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-06 15:42:45,707 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-06 15:42:46,082 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-06 15:42:46,083 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-06 15:42:48,070 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-06 15:42:48,072 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-06 15:42:48,219 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-06 15:42:48,222 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-06 15:42:48,307 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-06 15:42:48,309 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-06 15:42:48,324 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-06 15:42:48,326 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-06 15:42:48,535 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-06 15:42:48,537 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-06 15:42:48,570 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-06 15:42:48,571 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-06 15:42:48,858 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-06 15:42:48,859 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-06 15:42:48,868 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-06 15:42:48,870 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-06 15:42:48,950 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-06 15:42:48,952 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-06 15:42:48,973 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-06 15:42:48,973 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-06 15:42:48,974 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-06 15:42:48,974 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-06 15:42:48,979 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-06 15:42:48,980 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-06 15:42:48,981 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Use pytorch device: cpu
+2021-11-06 15:42:48,982 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Missing the index_to_name.json file. Inference output will not include class name.
+2021-11-06 15:44:30,734 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - inputs_fy:
+2021-11-06 15:44:30,735 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - [{'body': {'q': 'A man is eating food.', 'sep': '!~^', 'list_str': 'A man is eating a piece of bread.!~^The girl is carrying a baby.'}}]
+2021-11-06 15:44:30,735 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - <class 'list'>
+2021-11-06 15:44:30,735 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - {'q': 'A man is eating food.', 'sep': '!~^', 'list_str': 'A man is eating a piece of bread.!~^The girl is carrying a baby.'}
+2021-11-06 15:44:30,735 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - <class 'dict'>
+2021-11-06 15:44:30,741 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - 
+2021-11-06 15:44:30,788 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - Batches:   0%|          | 0/1 [00:00<?, ?it/s]
+2021-11-06 15:44:30,791 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - Batches: 100%|██████████| 1/1 [00:00<00:00, 21.66it/s]
+2021-11-06 15:44:30,791 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - 
+2021-11-06 15:44:30,821 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - Batches:   0%|          | 0/1 [00:00<?, ?it/s]
+2021-11-06 15:44:50,020 [INFO ] W-9015-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-06 15:44:50,029 [INFO ] W-9014-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-06 15:44:50,035 [INFO ] W-9013-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-06 15:44:50,040 [INFO ] W-9012-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-06 15:44:50,047 [INFO ] W-9011-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-06 15:44:50,055 [INFO ] W-9010-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-06 15:44:50,062 [INFO ] W-9009-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-06 15:44:50,070 [INFO ] W-9008-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-06 15:44:50,077 [INFO ] W-9007-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-06 15:44:50,078 [WARN ] W-9007-sbert_1.0-stderr MODEL_LOG - Batches: 100%|██████████| 1/1 [00:00<00:00, 33.37it/s]
+2021-11-06 15:44:50,086 [INFO ] W-9006-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-06 15:44:50,093 [INFO ] W-9005-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-06 15:44:50,102 [INFO ] W-9004-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-06 15:44:50,111 [INFO ] W-9003-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-06 15:44:50,119 [INFO ] W-9002-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-06 15:44:50,124 [INFO ] W-9001-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.
+2021-11-06 15:44:50,130 [INFO ] W-9000-sbert_1.0-stdout MODEL_LOG - Frontend disconnected.

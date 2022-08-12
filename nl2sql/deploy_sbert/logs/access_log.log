@@ -1,0 +1,8 @@
+2021-11-04 15:08:01,556 - /127.0.0.1:43324 "POST /predictions/sbert HTTP/1.1" 200 132
+2021-11-04 17:25:29,800 - /127.0.0.1:43490 "POST /predictions/sbert HTTP/1.1" 200 98
+2021-11-04 17:26:01,428 - /127.0.0.1:43496 "POST /predictions/sbert HTTP/1.1" 200 75
+2021-11-04 17:34:42,593 - /127.0.0.1:43542 "POST /predictions/sbert HTTP/1.1" 200 92
+2021-11-04 17:36:07,607 - /127.0.0.1:43552 "POST /predictions/sbert HTTP/1.1" 200 100
+2021-11-04 18:11:51,011 - /127.0.0.1:43704 "POST /predictions/sbert HTTP/1.1" 503 19
+2021-11-04 18:16:51,819 - /127.0.0.1:43720 "POST /predictions/sbert HTTP/1.1" 200 1440
+2021-11-06 15:44:30,825 - /127.0.0.1:54430 "POST /predictions/sbert HTTP/1.1" 200 102

@@ -1,0 +1,19 @@
+torch-model-archiver \
+ --model-name "en2sql" \
+ --version 1.0  \
+ --handler handler.py \
+ --serialized-file t5-base-finetuned-wikiSQL/pytorch_model.bin \
+ --extra-files "t5-base-finetuned-wikiSQL/"
+
+mkdir model_store
+
+mv en2sql.mar model_store
+
+torchserve --start --model-store model_store --models en2sql=en2sql.mar
+
+curl -X POST http://127.0.0.1:8080/predictions/en2sql -T chinese.txt
+
+torchserve --stop
+
+export JAVA_HOME=/home/fengyuan/workspaceGServer/java/jdk-11.0.13
+export PATH=$JAVA_HOME/bin:$PATH

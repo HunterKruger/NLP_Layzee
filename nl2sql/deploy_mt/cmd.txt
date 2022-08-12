@@ -1,0 +1,19 @@
+torch-model-archiver \
+ --model-name "mt_zh_en" \
+ --version 1.0  \
+ --handler handler.py \
+ --serialized-file ./opus-mt-zh-en/pytorch_model.bin \
+ --extra-files "opus-mt-zh-en/"  
+
+mkdir model_store
+
+mv mt_zh_en.mar model_store
+
+torchserve --start --model-store model_store --models mt_zh_en=mt_zh_en.mar
+
+curl -X POST http://127.0.0.1:8080/predictions/mt_zh_en -T chinese.txt
+
+torchserve --stop
+
+export JAVA_HOME=/home/fengyuan/workspaceGServer/java/jdk-11.0.13
+export PATH=$JAVA_HOME/bin:$PATH

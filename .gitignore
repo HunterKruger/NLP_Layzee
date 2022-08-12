@@ -1,7 +1,11 @@
+*.ptb
+*.pth
+nl2sql/torchserve-examples/
 *.csv
 *.tsv
 *.json
 *.txt
+!cmd.txt
 *.bin
 *.hdf5
 *.mt
@@ -15,7 +19,11 @@
 .vscode/
 .DS_Store/
 .ipynb_checkpoints/
-*/log/
-*/data/
-*/config/
-*/tensorboard/
+log/
+data/
+config/
+tensorboard/
+*.cfg
+*.pkl
+*.pt
+*.m5

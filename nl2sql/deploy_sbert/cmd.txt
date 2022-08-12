@@ -1,0 +1,34 @@
+
+### torchserve依赖java11，配置环境变量
+export JAVA_HOME=/home/fengyuan/workspaceGServer/java/jdk-11.0.13
+export PATH=$JAVA_HOME/bin:$PATH
+
+### 打包模型成mar文件
+# handler.py需要手写，如果是基础任务直接比如图像分类，可以直接填写并生成默认的handler: image_classifier
+# handler.py可参考 https://github.com/pytorch/serve/blob/master/examples/Huggingface_Transformers/Transformer_handler_generalized.py
+# handler.py可参考 https://medium.com/analytics-vidhya/deploy-huggingface-s-bert-to-production-with-pytorch-serve-27b068026d18
+# serialized-file 是主模型文件, .pt/.pth/.bin格式都支持
+# extra-files 里可以传文件名，也可以把文件放到文件夹内，传文件夹名
+torch-model-archiver \
+ --model-name "sbert" \
+ --version 1.0  \
+ --handler handler.py \
+ --serialized-file distiluse-base-multilingual-cased/pytorch_model.bin \
+ --extra-files "distiluse-base-multilingual-cased/"
+
+### 新建mar文件的存储路径
+mkdir model_store
+
+### 将mar文件移动到此路径
+mv sbert.mar model_store
+
+### 起服务，在mar文件的存储路径外
+# 日志信息详见 logs/model_log.log
+torchserve --start --model-store model_store --models sbert=sbert.mar
+
+### 通过终端发送请求，请求文本在chinese.txt中
+curl -X POST http://127.0.0.1:8080/predictions/sbert -T chinese.txt
+
+### 关服务，最好新开一个终端
+torchserve --stop
+
