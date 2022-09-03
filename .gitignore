@@ -1,6 +1,7 @@
 *.ptb
 *.pth
 nl2sql/torchserve-examples/
+im_high_freq/
 *.csv
 *.tsv
 *.json
